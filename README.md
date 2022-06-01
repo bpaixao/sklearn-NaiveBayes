@@ -9,4 +9,5 @@ O algoritmo de Naive Bayes consiste em encontrar uma probabilidade a posteriori 
 Devemos também computar a probabilidade a posteriori da negação (Não possuir a doença, dado que recebeu um resultado Positivo).
 
 
-Obs. Esse script foi criado com GoogleColab no princípio. 
+
+Obs. Esse script foi criado utilizando o Notebook GoogleColab. 
